@@ -31,6 +31,7 @@ Node.js is a runtime environment that allows you to run JavaScript code outside 
 Overall, the Weather App uses the power of Node.js and Express.js to seamlessly collect user input, retrieve coordinates, fetch weather data from an API, process that data, and then present the temperature and other weather details to the user. This combination of technologies allows developers to create efficient and responsive applications for weather information retrieval.
 ![Screenshot (31)](https://github.com/deva025/weather/assets/82561995/797271fa-896d-4580-b343-9971cc85b3bc)
 
+![Screenshot (33)](https://github.com/deva025/weather/assets/82561995/f8b50f1a-0d45-43a4-96b5-2673d32f84b3)
 
 
 ![Screenshot (32)](https://github.com/deva025/weather/assets/82561995/cbc6899e-0fe7-475b-a884-793b590ab393)
