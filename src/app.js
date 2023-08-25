@@ -39,7 +39,7 @@ app.get('/deva',(req,res)=>{ if(res) {
         }
     else {
         const jj=await JSON.parse(response.body)
-    const gh=jj.features
+    const gh=jj.features 
    //res.send({dva:gh[0].center[0],lkjhgfgh:gh[0].center[1],address:hj}) 
     
 const url='http://api.weatherstack.com/current?access_key=345378739bcf6422faf2763f8babed45&query=34.053691,-118.242766'
