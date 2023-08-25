@@ -29,7 +29,9 @@ Node.js and Express.js:
 Node.js is a runtime environment that allows you to run JavaScript code outside of a web browser, making it suitable for server-side applications. Express.js is a web application framework for Node.js that simplifies the process of building robust and scalable web applications. In this context, you would use Express.js to set up routes, handle user requests, and interact with APIs.
 
 Overall, the Weather App uses the power of Node.js and Express.js to seamlessly collect user input, retrieve coordinates, fetch weather data from an API, process that data, and then present the temperature and other weather details to the user. This combination of technologies allows developers to create efficient and responsive applications for weather information retrieval.
+![Screenshot (31)](https://github.com/deva025/weather/assets/82561995/797271fa-896d-4580-b343-9971cc85b3bc)
 
 
 
+![Screenshot (32)](https://github.com/deva025/weather/assets/82561995/cbc6899e-0fe7-475b-a884-793b590ab393)
 
