@@ -1,6 +1,7 @@
 const req=require('express')
 
 const app=req()
+const port=process.env.PORT||3000
 
 app.set('view engine', 'hbs');
 
@@ -89,5 +90,5 @@ app.get('*',(req,res)=>{res.render('404page')})
 
 
 
-app.listen(3000,()=>{console.log('god ')})
+app.listen(port,()=>{console.log('god ')})
 

@@ -82,7 +82,7 @@ function deva(event) {
   var firstName = document.getElementById("fname").value;
 
   if (firstName !== '') {
-    const iop = 'http://localhost:3000/deva?address=india';
+    const iop = '/deva?address=india';
     const weatherl = iop.replace('india', firstName);
 
     // Display the loader
